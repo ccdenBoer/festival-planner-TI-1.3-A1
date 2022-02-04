@@ -8,3 +8,4 @@ public class Person {
     private String name;
 >>>>>>> Made project follow class diagram
 }
+as
