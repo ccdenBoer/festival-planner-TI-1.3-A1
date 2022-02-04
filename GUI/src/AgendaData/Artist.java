@@ -1,4 +1,5 @@
 package AgendaData;
 
-public class Artist extends Person {
+public class Artist extends Person implements Preformer{
+
 }

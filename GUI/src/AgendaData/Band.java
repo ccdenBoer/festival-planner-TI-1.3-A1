@@ -1,4 +1,7 @@
 package AgendaData;
 
-public class Band {
+import java.util.ArrayList;
+
+public class Band implements Preformer{
+    ArrayList<Artist> Bandmembers;
 }
