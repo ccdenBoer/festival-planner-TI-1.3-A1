@@ -1,4 +1,4 @@
 package AgendaData;
 
-public interface Preformer {
+public interface Performer {
 }
